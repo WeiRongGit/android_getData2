@@ -9,6 +9,7 @@ import com.loopj.android.http.SyncHttpClient;
  */
 
 public class httpClientUtil {
+
     private static final String BASE_URL = "https://www.zhtfkj.com/TfWebApi/api/";
 
     private static SyncHttpClient client = new SyncHttpClient();
